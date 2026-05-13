@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caffeineCoder12
 - 👀 I’m interested in multiple things 😉
-- 🌱 I’m currently learning python, c++, java.
+- 🌱 A fullstack project I've done and am proud of https://mapmytrip.netlify.app/
 - 📫 How to reach me - bmadhuvanthi12@gmail.com
 
 <!---
