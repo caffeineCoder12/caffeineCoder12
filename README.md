@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caffeineCoder12
-- 👀 I’m interested in multiple things 😉
+- 👀 I’m interested in learning new things and applying them
 - 🌱 A fullstack project I've done and am proud of https://mapmytrip.netlify.app/
 - 📫 How to reach me - bmadhuvanthi12@gmail.com
 
